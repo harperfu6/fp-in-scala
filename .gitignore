@@ -1,0 +1,10 @@
+.cache/
+.gitconfig
+.ivy2/
+.sbt/
+.scala_history
+.ssh/
+.vscode-server/
+
+project/
+target/
