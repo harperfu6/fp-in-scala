@@ -5,6 +5,7 @@
 .scala_history
 .ssh/
 .vscode-server/
+.bash_history
 
 project/
 target/
